@@ -6,3 +6,7 @@ typedef struct
     string name;
     int votes;
 } candidate;
+
+int main(void)
+{
+}
