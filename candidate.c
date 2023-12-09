@@ -10,3 +10,7 @@ typedef struct
 int main(void)
 {
 }
+
+candidate get_candidate(string prompt)
+{
+}
